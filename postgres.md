@@ -1,6 +1,6 @@
 # PostgreSQL + Flask (“LawnStore”)
 
-[Minimal App]./dbapp.py
+[Minimal App](./dbapp.py)
 
 
 **Objective**  
