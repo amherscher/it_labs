@@ -1,5 +1,8 @@
 # PostgreSQL + Flask (“LawnStore”)
 
+./dbapp.py
+
+
 **Objective**  
 Build a tiny inventory app to practice DB schema design, CRUD operations, simple search, and validation.
 
