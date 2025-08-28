@@ -6,7 +6,7 @@ Focus: Linux/Windows admin, networking (VPN, DHCP/DNS, VLANs), and troubleshooti
 ## Labs
 
 - [WireGuard VPN Lab](./wireguard_vpn.md) — Site-to-client VPN with NAT, firewall rules, Linux + Windows clients.
-- [Samba Fileshare Lab](./samba-fileshare-lab) — Ubuntu Server + Samba, cross-platform access (Win/macOS/Linux).
+- [Samba Fileshare Lab](./samba_fileshare.md) — Ubuntu Server + Samba, cross-platform access (Win/macOS/Linux).
 - [Windows Server 2019 AD](./ad-windows-server-2019-lab) — AD DS, users/groups, GPO basics.
 - [PostgreSQL + Flask (“LawnStore”)](./postgres-flask-lawnstore) — CRUD app, search, input validation.
 - [Wireshark Troubleshooting](./wireshark-troubleshooting-exercises) — Packet captures for DHCP/DNS/VPN flows.
