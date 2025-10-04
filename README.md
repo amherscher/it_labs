@@ -7,6 +7,7 @@ Focus: Linux/Windows admin, networking (VPN, DHCP/DNS, VLANs), and troubleshooti
 
 - [WireGuard VPN Lab](./wireguard_vpn.md) — Site-to-client VPN with NAT, firewall rules, Linux + Windows clients.
 - [Samba Fileshare Lab](./samba_fileshare.md) — Ubuntu Server + Samba, cross-platform access (Win/macOS/Linux).
+- [Linux Raid 1 Migration)](./ubuntu_raid_1_migration_operations.md) — Install 2nd ssd drive and use as a mirror for original.
 - [PostgreSQL + Flask (“LawnStore”)](./postgres.md) — CRUD app, search, input validation.
 
 ## Tech Highlights
